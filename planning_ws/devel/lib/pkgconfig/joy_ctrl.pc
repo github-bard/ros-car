@@ -1,0 +1,8 @@
+prefix=/home/amazing/submarine/workspace/planning_ws/devel
+
+Name: joy_ctrl
+Description: Description of joy_ctrl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
