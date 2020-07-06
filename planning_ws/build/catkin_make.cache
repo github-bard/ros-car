@@ -1,2 +1,0 @@
-base_controller:joy_ctrl:rplidar_ros-master:serial:teleop_twist_keyboard
--DCATKIN_DEVEL_PREFIX=/home/amazing/submarine/workspace/planning_ws/devel -DCMAKE_INSTALL_PREFIX=/home/amazing/submarine/workspace/planning_ws/install -G Unix Makefiles
