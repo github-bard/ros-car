@@ -1,0 +1,3 @@
+<launch>
+<remap from="/turtle1/cmd_vel"to="/cmd_vel">
+</launch>

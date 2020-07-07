@@ -1,0 +1,10 @@
+<launch>
+    <node pkg="joy_ctrl" type="logteleop" name="logteleop" output="screen"> 
+    </node>
+    <!--input axis -->
+  
+       <!--input vel -->
+    <node  respawn="true" pkg="joy" type="joy_node" name="joystick" >
+  
+    </node>
+</launch>

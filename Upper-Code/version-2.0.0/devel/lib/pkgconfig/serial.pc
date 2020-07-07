@@ -1,0 +1,8 @@
+prefix=/home/amazing/submarine/workspace/planning_ws/devel
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/amazing/submarine/workspace/planning_ws/src/serial/include
+Libs: -L${prefix}/lib -lserial
+Requires: 
